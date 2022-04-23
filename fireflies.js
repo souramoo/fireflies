@@ -98,3 +98,6 @@ var fireFlies = function() {
   };
 
 }();
+(function() {
+            fireFlies();
+        })();
